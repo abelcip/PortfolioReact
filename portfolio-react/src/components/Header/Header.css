@@ -1,5 +1,5 @@
 .header {
-    background-image: url(/public/background.jpeg);
+    background-image: url(/public/source-code-583537_640.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 40px 20px;
@@ -16,12 +16,15 @@
   }
   
   .fotoperfil {
-    width: 150px;
-    height: 150px;
+    width: 400px;
+    height: 350px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid rgb(255, 255, 255);
     margin-bottom: 20px;
+    margin-left: 800px;
+
+    
   }
   
   h1 {
